@@ -1,5 +1,5 @@
 # Casino_MonteCarlo
-カジノの攻略法である、モンテカルロ法の検証プログラムです。
+カジノの攻略法である、モンテカルロ法の検証プログラムです。（２倍、３倍配当のゲームに対応しています。）
 ## モンテカルロ法とは？
 https://www.casino-winnersclub.com/monte-carlo.php
 ## 使い方
