@@ -9,6 +9,9 @@ C言語の環境構築：https://lyncs.hateblo.jp/entry/2018/03/11/032127#%E5%AF
 gnuplotのインストール（Windows）：http://www.yamamo10.jp/yamamoto/comp/gnuplot/inst_win/index.php
 
 gnuplotのインストール（Linux）：http://www.yamamo10.jp/yamamoto/comp/gnuplot/inst_linux/index.php
+
+gnuplotのインストール（Mac） :https://home.hirosaki-u.ac.jp/heroic-2020/796/
+
 ### 1. ターミナルで下記を実行し、リポジトリをクローンします。
 git clone https://github.com/kasaiS-2-S-2/Casino_MonteCarlo.git
 ### 2. 上記を行うと新しいフォルダができるので、その中で下記コマンドを入力し、コンパイルします。
