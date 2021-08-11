@@ -61,9 +61,9 @@ int main(void)
         gamecountrate[j] = 0.0;
     }
 
-    printf("数列、勝敗を表示しますか？（表示するなら１表示しないなら−１）:");
+    printf("数列、勝敗を表示しますか？（表示するなら1表示しないなら-1を入力）:");
     scanf("%d", &showGameResultFlag);
-    printf("グラフ書きますか？（書くなら１書かないなら−１）:");
+    printf("グラフを書きますか？（書くなら1書かないなら-1を入力）:");
     scanf("%d", &flag3);
     printf("予算を入力してください（単位＄）：");
     scanf("%d", &budget);
